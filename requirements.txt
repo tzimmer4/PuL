@@ -1,9 +1,7 @@
 numpy
-
 pandas
 
 matplotlib
-
 seaborn
 pulp
 jupyter-contrib-nbextensions
