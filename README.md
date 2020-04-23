@@ -1,2 +1,2 @@
 # PuL
- Produktions- und Logistikmanagement
+ Produktions- und Logistikmanagement 2020
