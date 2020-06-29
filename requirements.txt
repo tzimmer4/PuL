@@ -4,6 +4,11 @@ matplotlib
 seaborn
 pulp
 ortools
+collections
+time
+io
+contextlib
+random
 qgrid
 ipywidgets
 jupyter-contrib-nbextensions
