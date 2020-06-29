@@ -4,9 +4,6 @@ matplotlib
 seaborn
 pulp
 ortools
-time
-io
-contextlib
 random
 qgrid
 ipywidgets
