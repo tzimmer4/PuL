@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 pulp
-ortools
+ortools.sat.python
 random
 qgrid
 ipywidgets
