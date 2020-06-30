@@ -3,8 +3,7 @@ pandas
 matplotlib
 seaborn
 pulp
-ortools.sat.python
-random
+ortools==7.7.7810
 qgrid
 ipywidgets
 jupyter-contrib-nbextensions
